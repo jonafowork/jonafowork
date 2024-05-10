@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonafowork, A Programmer
+- 👋 Hi, I’m @jonafowork, a programmer
 - 👀 I’m interested in badminton
 - 🌱 I’m currently learning c#/golang/rust/js
 - 💞️ I’m looking to collaborate on ...
